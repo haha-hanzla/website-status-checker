@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Log file created by the program
+status_log.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store

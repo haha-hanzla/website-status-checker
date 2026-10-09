@@ -1,0 +1,8 @@
+2026-10-09 18:26:11 | https://google.com | UP | 200 | 3.63s
+2026-10-09 18:26:12 | https://github.com | UP | 200 | 1.61s
+2026-10-09 18:26:13 | https://wikipedia.org | DOWN | 403 | 1.0s
+2026-10-09 18:26:14 | https://example.com | UP | 200 | 0.85s
+2026-10-09 18:27:28 | https://google.com | UP | 200 | 3.16s
+2026-10-09 18:27:29 | https://github.com | UP | 200 | 1.67s
+2026-10-09 18:27:31 | https://wikipedia.org | DOWN | 403 | 1.4s
+2026-10-09 18:27:33 | https://aniwaves.ru/watch/kimetsu-no-yaiba-yuukaku-hen-77714/ep-6 | UP | 200 | 2.64s

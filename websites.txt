@@ -1,0 +1,7 @@
+# Put one website on each line.
+# Lines that start with # are ignored.
+
+google.com
+github.com
+wikipedia.org
+https://aniwaves.ru/watch/kimetsu-no-yaiba-yuukaku-hen-77714/ep-6
