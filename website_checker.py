@@ -1,5 +1,4 @@
 # Website Status Checker
-# ----------------------
 # This program checks if websites are UP or DOWN.
 # It sends a request to each website and shows the status code
 # and how long the website took to respond.
@@ -96,10 +95,10 @@ def main():
         print("No websites to check.")
         return
 
-    print("=" * 60)
+    print()
     print("WEBSITE STATUS CHECKER")
     print("Time:", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-    print("=" * 60)
+    print()
 
     up_count = 0
     down_count = 0
@@ -121,7 +120,7 @@ def main():
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         save_to_log(now + " | " + url + " | " + status + " | " + str(code) + " | " + str(response_time) + "s")
 
-    print("=" * 60)
+    print()
     print("Total checked:", len(websites))
     print("UP:", up_count, " DOWN:", down_count)
     print("Results saved in status_log.txt")
